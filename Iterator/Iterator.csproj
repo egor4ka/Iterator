@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IIterator.cs" />
-    <Compile Include="MenuArrayIteкуещк.cs" />
+    <Compile Include="MenuArrayIterator.cs" />
     <Compile Include="MenuItem.cs" />
     <Compile Include="MenuReversListIterator.cs" />
     <Compile Include="MenuVeganIterator.cs" />

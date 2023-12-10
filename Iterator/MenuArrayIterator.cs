@@ -30,7 +30,7 @@ namespace Iterator
             }
             else
             {
-                throw new InvalidOperationException("No more elements");
+                throw new InvalidOperationException("Блюд больше нет");
             }
         }
     }
